@@ -1,0 +1,6 @@
+{
+  "name": "Lexicon Forge",
+  "description": "Timed world-dictionary word crafting game with progressive levels, daily challenges, leaderboards, level badges, and milestone achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

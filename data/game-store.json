@@ -1,0 +1,117 @@
+{
+  "allTimeLeaderboard": [
+    {
+      "playerId": "seed-clara",
+      "handle": "ClaraVance",
+      "score": 14850,
+      "wordsCount": 24,
+      "badgesCount": 11,
+      "highestLevel": 12,
+      "dailyStreak": 9,
+      "rootWord": "MASTERWORK",
+      "mode": "blitz",
+      "updatedAt": "2026-11-20T18:14:17.880Z"
+    },
+    {
+      "playerId": "seed-julian",
+      "handle": "JulianReed",
+      "score": 11420,
+      "wordsCount": 20,
+      "badgesCount": 9,
+      "highestLevel": 10,
+      "dailyStreak": 6,
+      "rootWord": "PLANETARY",
+      "mode": "standard",
+      "updatedAt": "2026-11-20T18:14:17.880Z"
+    },
+    {
+      "playerId": "seed-nadia",
+      "handle": "NadiaK",
+      "score": 9640,
+      "wordsCount": 18,
+      "badgesCount": 7,
+      "highestLevel": 8,
+      "dailyStreak": 4,
+      "rootWord": "ORCHESTRA",
+      "mode": "marathon",
+      "updatedAt": "2026-11-20T18:14:17.880Z"
+    },
+    {
+      "playerId": "seed-theo",
+      "handle": "TheoMercer",
+      "score": 7180,
+      "wordsCount": 15,
+      "badgesCount": 5,
+      "highestLevel": 6,
+      "dailyStreak": 3,
+      "rootWord": "TRIANGLE",
+      "mode": "standard",
+      "updatedAt": "2026-11-20T18:14:17.880Z"
+    },
+    {
+      "playerId": "seed-iris",
+      "handle": "IrisLin",
+      "score": 5290,
+      "wordsCount": 12,
+      "badgesCount": 3,
+      "highestLevel": 4,
+      "dailyStreak": 2,
+      "rootWord": "LANTERN",
+      "mode": "standard",
+      "updatedAt": "2026-11-20T18:14:17.880Z"
+    }
+  ],
+  "dailyLeaderboards": {
+    "2026-11-20": [
+      {
+        "playerId": "seed-clara",
+        "handle": "ClaraVance",
+        "score": 6820,
+        "wordsCount": 17,
+        "badgesCount": 11,
+        "highestLevel": 12,
+        "dailyStreak": 9,
+        "rootWord": "CAPRATES",
+        "dateKey": "2026-11-20",
+        "updatedAt": "2026-11-20T18:14:17.880Z"
+      },
+      {
+        "playerId": "seed-julian",
+        "handle": "JulianReed",
+        "score": 5340,
+        "wordsCount": 14,
+        "badgesCount": 9,
+        "highestLevel": 10,
+        "dailyStreak": 6,
+        "rootWord": "CAPRATES",
+        "dateKey": "2026-11-20",
+        "updatedAt": "2026-11-20T18:14:17.880Z"
+      },
+      {
+        "playerId": "seed-nadia",
+        "handle": "NadiaK",
+        "score": 4120,
+        "wordsCount": 11,
+        "badgesCount": 7,
+        "highestLevel": 8,
+        "dailyStreak": 4,
+        "rootWord": "CAPRATES",
+        "dateKey": "2026-11-20",
+        "updatedAt": "2026-11-20T18:14:17.880Z"
+      },
+      {
+        "playerId": "seed-theo",
+        "handle": "TheoMercer",
+        "score": 2980,
+        "wordsCount": 9,
+        "badgesCount": 5,
+        "highestLevel": 6,
+        "dailyStreak": 3,
+        "rootWord": "CAPRATES",
+        "dateKey": "2026-11-20",
+        "updatedAt": "2026-11-20T18:14:17.880Z"
+      }
+    ]
+  },
+  "profiles": {}
+}
